@@ -227,6 +227,7 @@ main {
 .message {
   display: flex;
   justify-content: center;
+  margin-top: 24px;
 }
 
 .message-card {
